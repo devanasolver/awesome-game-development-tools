@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "SPRITE",
+  "TILEMAP",
+  "SHADER",
+  "PHYSICS",
+  "ECS",
+  "LEVEL",
+  "MESH",
+  "ENGINE",
+  "INPUT",
+  "ANIM",
+  "PIXEL",
+  "RENDER",
+  "NETCODE",
+  "SCENE",
+  "COLLIDE",
+  "JAM"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Game Development",
+  "Tools"
+ ],
+ "title_size": 68,
+ "sub1": "ENGINES  |  FRAMEWORKS  |  TOOLS",
+ "sub2": "ART  |  AUDIO  |  MULTIPLAYER",
+ "foot": "Open-source game development software, each checked for license and activity"
+}

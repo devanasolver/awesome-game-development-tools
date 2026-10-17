@@ -1,0 +1,330 @@
+[
+  {
+    "repo": "recastnavigation/recastnavigation",
+    "category": "ai",
+    "description": "Navigation mesh construction and pathfinding toolset for games.",
+    "license": "Zlib",
+    "verified": "2026-10-18",
+    "last_commit": "2026-02-27"
+  },
+  {
+    "repo": "Unity-Technologies/ml-agents",
+    "category": "ai",
+    "description": "Train agents in games and simulations with machine learning.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "blender/blender",
+    "category": "art",
+    "description": "Free and open-source 3D creation suite.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "EsotericSoftware/spine-runtimes",
+    "category": "art",
+    "description": "Runtimes for Spine animations. The editor is paid.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "KDE/krita",
+    "category": "art",
+    "description": "Free digital painting program.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "LibreSprite/LibreSprite",
+    "category": "art",
+    "description": "Free and open-source sprite editor, a fork of Aseprite.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "chr15m/jsfxr",
+    "category": "audio",
+    "description": "JavaScript sound effect generator.",
+    "license": "Unlicense",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-05"
+  },
+  {
+    "repo": "LMMS/lmms",
+    "category": "audio",
+    "description": "Cross-platform music production software.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-27"
+  },
+  {
+    "repo": "mackron/miniaudio",
+    "category": "audio",
+    "description": "Single-file audio playback and capture library.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "bevyengine/bevy",
+    "category": "engine",
+    "description": "Data-driven game engine built in Rust.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "cocos/cocos-engine",
+    "category": "engine",
+    "description": "Cocos Creator engine for 2D and 3D games.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "defold/defold",
+    "category": "engine",
+    "description": "Free game engine for desktop, mobile, web and console.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "FlaxEngine/FlaxEngine",
+    "category": "engine",
+    "description": "Complete 3D game engine with C# and C++ scripting.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "godotengine/godot",
+    "category": "engine",
+    "description": "Multi-platform 2D and 3D game engine with a built-in editor.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "love2d/love",
+    "category": "engine",
+    "description": "LOVE, a 2D game framework for Lua.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-20"
+  },
+  {
+    "repo": "o3de/o3de",
+    "category": "engine",
+    "description": "Open 3D Engine for games and simulations.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "excaliburjs/Excalibur",
+    "category": "framework",
+    "description": "Friendly TypeScript 2D game engine for the web.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "kaplayjs/kaplay",
+    "category": "framework",
+    "description": "Fun JavaScript game library.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "libgdx/libgdx",
+    "category": "framework",
+    "description": "Cross-platform Java game development framework.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "libsdl-org/SDL",
+    "category": "framework",
+    "description": "Simple DirectMedia Layer, a cross-platform multimedia library.",
+    "license": "Zlib",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "MonoGame/MonoGame",
+    "category": "framework",
+    "description": "Open-source C# framework for cross-platform games.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "mrdoob/three.js",
+    "category": "framework",
+    "description": "JavaScript 3D library.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "phaserjs/phaser",
+    "category": "framework",
+    "description": "Fast, fun HTML5 2D game framework.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-21"
+  },
+  {
+    "repo": "pixijs/pixijs",
+    "category": "framework",
+    "description": "Fast 2D rendering library for the web.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "playcanvas/engine",
+    "category": "framework",
+    "description": "WebGL and WebGPU game engine.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "raysan5/raylib",
+    "category": "framework",
+    "description": "Simple and easy-to-use library to enjoy videogames programming.",
+    "license": "Zlib",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mapeditor/tiled",
+    "category": "level",
+    "description": "Flexible level editor for tile maps.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "colyseus/colyseus",
+    "category": "net",
+    "description": "Multiplayer framework for Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Facepunch/Facepunch.Steamworks",
+    "category": "net",
+    "description": "Steamworks wrapper for C#.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "heroiclabs/nakama",
+    "category": "net",
+    "description": "Distributed server for social and realtime games.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "ValveSoftware/GameNetworkingSockets",
+    "category": "net",
+    "description": "Basic transport layer for games.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-03"
+  },
+  {
+    "repo": "bulletphysics/bullet3",
+    "category": "physics",
+    "description": "Real-time collision detection and multi-physics simulation.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "dimforge/rapier",
+    "category": "physics",
+    "description": "Fast 2D and 3D physics engine in Rust.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "erincatto/box2d",
+    "category": "physics",
+    "description": "2D physics engine for games.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jrouwe/JoltPhysics",
+    "category": "physics",
+    "description": "Multi-core friendly rigid body physics and collision library.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "SanderMertens/flecs",
+    "category": "physics",
+    "description": "Fast entity component system for C and C++.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "skypjack/entt",
+    "category": "physics",
+    "description": "Fast, header-only C++ entity component system.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "dialogic-godot/dialogic",
+    "category": "ui",
+    "description": "Dialogue, characters and visual novel creator for Godot.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-30"
+  },
+  {
+    "repo": "inkle/ink",
+    "category": "ui",
+    "description": "Narrative scripting language for games.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-05"
+  },
+  {
+    "repo": "ocornut/imgui",
+    "category": "ui",
+    "description": "Bloat-free immediate mode GUI for C++.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "YarnSpinnerTool/YarnSpinner",
+    "category": "ui",
+    "description": "Tool for building interactive dialogue in games.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  }
+]
